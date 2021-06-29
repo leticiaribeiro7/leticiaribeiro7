@@ -1,15 +1,15 @@
 # Hello! :sparkles:
 
 
-<h3 align="center">
+<h4 align="center">
   I'm Leticia, a computer engineering student, member of EcompJr and I love to explore new things :rocket:
-</h3>
+</h4>
 
 <br>
 
-<h3 align="center"><strong>
+<h4 align="center"><strong>
   📖 Currently learning:
-</h3></strong>
+</h4></strong>
 
 
 <p align="center">
@@ -34,9 +34,9 @@
 
 <br>
 
-<h3 align="center"><strong>
+<h4 align="center"><strong>
   You can reach me at:
-<h3></strong>
+<h4></strong>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/leticia--ribeiro">
