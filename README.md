@@ -1,16 +1,48 @@
-### Hi there 👋
+# Hello! :sparkles:
 
-<!--
-**leticiaribeiro7/leticiaribeiro7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h3 align="center">
+  I'm Leticia, a computer engineering student, member of EcompJr and I love to explore new things :rocket:
+</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+<h3 align="center"><strong>
+  📖 Currently learning:
+</h3></strong>
+
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/35739995/122654956-2b934900-d125-11eb-94b1-58102216fa9f.png">&nbsp;
+  <img src="https://user-images.githubusercontent.com/35739995/122655003-80cf5a80-d125-11eb-9718-c0d416a29986.png">&nbsp;
+  <img src="https://user-images.githubusercontent.com/35739995/122655023-a78d9100-d125-11eb-89b8-f006041d9d4a.png">&nbsp;
+  <img height='40' src="https://user-images.githubusercontent.com/35739995/122655475-c0e40c80-d128-11eb-9608-c8667123c1b4.png">&nbsp;
+</p>
+
+
+
+<table align="center">
+  <row>
+    <td>
+      <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiaribeiro7&layout=compact&theme=radical">
+    </td>
+    <td>
+  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=leticiaribeiro7&show_icons=true&theme=radical">
+    </td>
+  </row>
+</table>
+
+<br>
+
+<h3 align="center"><strong>
+  You can reach me at:
+<h3></strong>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/leticia--ribeiro">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>        
+  </a>
+  <a href="mailto:letsribeiro2@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>        
+  </a>
+</p>
