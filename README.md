@@ -2,7 +2,7 @@
 
 
 <h4 align="center">
-  I'm Leticia, a computer engineering student, member of EcompJr and I love to explore new things :rocket:
+  I'm Leticia, a computer engineering student and I love to explore new things :rocket:
 </h4>
 
 <br>
