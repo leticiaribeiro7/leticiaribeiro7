@@ -22,14 +22,12 @@
 
 
 <table align="center">
-  <row>
     <td>
       <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiaribeiro7&layout=compact&theme=radical">
     </td>
     <td>
   <img height="160px" src="https://github-readme-stats.vercel.app/api?username=leticiaribeiro7&show_icons=true&theme=radical">
     </td>
-  </row>
 </table>
 
 <br>
