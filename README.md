@@ -21,14 +21,10 @@
 
 
 
-<table align="center">
-    <td>
-      <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiaribeiro7&layout=compact&theme=radical">
-    </td>
-    <td>
+<p align="center">
+  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiaribeiro7&layout=compact&theme=radical">
   <img height="160px" src="https://github-readme-stats.vercel.app/api?username=leticiaribeiro7&show_icons=true&theme=radical">
-    </td>
-</table>
+</p>
 
 <br>
 
