@@ -15,8 +15,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">&nbsp;
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">&nbsp;
-  <img src="https://user-images.githubusercontent.com/35739995/122655023-a78d9100-d125-11eb-89b8-f006041d9d4a.png">&nbsp;
-  <img height='40' src="https://user-images.githubusercontent.com/35739995/122655475-c0e40c80-d128-11eb-9608-c8667123c1b4.png">&nbsp;
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">&nbsp;
 </p>
 
 
