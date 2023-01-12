@@ -7,11 +7,7 @@
 
 <br>
 
-<h4 align="center"><strong>
-  📖 Currently learning:
-</h4></strong>
-
-<br>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leticiaribeiro7)](https://github.com/anuraghazra/github-readme-stats)
 
 <h4 align="center"><strong>
   You can reach me at:
