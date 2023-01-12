@@ -11,20 +11,6 @@
   📖 Currently learning:
 </h4></strong>
 
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">&nbsp;
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">&nbsp;
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">&nbsp;
-</p>
-
-
-
-<p align="center">
-  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiaribeiro7&layout=compact&theme=radical">
-  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=leticiaribeiro7&show_icons=true&theme=radical">
-</p>
-
 <br>
 
 <h4 align="center"><strong>
