@@ -1,9 +1,8 @@
 # Hello! ✨
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=3700&pause=900&color=D145C2&center=true&vCenter=true&width=1000&lines=My+name+is+Leticia;I'm+a+software+developer+from+Brazil;And+I+love+to+explore+new+things!)](https://git.io/typing-svg)
+<h3 align="center">I'm a Software Developer based in Brazil with a passion for problem-solving and a drive for continuous learning. I thrive on exploring new technologies!</h3>
 
-
-<h4 align="center">🧩 Main Skills</h4>
+<h4 align="center">✅ Main Skills</h4>
 
 <p align="center">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
